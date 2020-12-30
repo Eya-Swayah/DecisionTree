@@ -1,0 +1,15 @@
+Temps,température,humidité,vent,Football
+soleil,chaude,haute,0,0
+soleil,chaude,haute,1,0
+couvert,chaude,haute,0,1
+pluie,bonne,haute,0,1
+pluie,fraîche,normale,0,1
+pluie,fraîche,normale,1,0
+couvert,fraîche,normale,1,1
+soleil,bonne,haute,0,0
+soleil,fraîche,normale,0,1
+pluie,bonne,normale,0,1
+soleil,bonne,normale,1,1
+couvert,bonne,haute,1,1
+couvert,chaude,normale,0,1
+pluie,bonne,haute,1,0
